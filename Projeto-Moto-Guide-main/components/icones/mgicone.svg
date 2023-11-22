@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg1"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="px"
+     inkscape:export-bgcolor="#fd6100ff" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-size:18.213px;line-height:0.018972px;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';text-align:center;letter-spacing:0px;word-spacing:341.491px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:3.41491"
+       x="8.8888731"
+       y="13.494333"
+       id="text1"
+       transform="scale(0.8899729,1.1236297)"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         x="8.8888731"
+         y="13.494333"
+         style="letter-spacing:0px;fill:#ffffff;fill-opacity:1;stroke-width:3.41491">mg</tspan></text>
+  </g>
+</svg>
